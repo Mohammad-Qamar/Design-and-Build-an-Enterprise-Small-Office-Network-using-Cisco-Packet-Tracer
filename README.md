@@ -1,4 +1,10 @@
 Project Documentation
+
+
+<img width="1401" height="664" alt="Screenshot 2025-10-24 103617" src="https://github.com/user-attachments/assets/8637dd1d-7fc9-4797-9a81-2fc22504fdd7" />
+
+
+
 Project/Documentation: Design and Build an Enterprise Small Office Network using Cisco Packet Tracer
 Objective
 The objective of this project is to design, configure, and simulate a small office network using Cisco Packet Tracer, showcasing VLAN segmentation, inter-VLAN routing, HSRP-based redundancy, NAT configuration, and overall network security. 
